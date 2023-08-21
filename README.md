@@ -9,3 +9,6 @@ Along with the major in Computer Science, I enrolled in **Machine Intelligence**
 
 ## [Leetcode](https://github.com/jmhong20/leetcode)
 This is my leetcode repository.
+
+## Projects
+- 

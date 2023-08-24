@@ -11,4 +11,4 @@ Along with the major in Computer Science, I enrolled in **Machine Intelligence**
 This is my leetcode repository.
 
 ## Projects
-- 
+- [Calculating appropriate stocks prices in South Korea for making better investment decisions.](https://github.com/jmhong20/InvestGuide_Korea)

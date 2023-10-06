@@ -14,5 +14,5 @@ This is my leetcode repository.
 - [Calculating appropriate stocks prices in South Korea for making better investment decisions.](https://github.com/jmhong20/InvestGuide_Korea)
 
 ## Arch Linux Installation
-[Pre-install](https://github.com/jmhong20/jaemin_port/tree/main/ArchInstall)
-[Post-install](https://github.com/jmhong20/jaemin_port/tree/main/ArchRice)
+- [Pre-install](https://github.com/jmhong20/jaemin_port/tree/main/ArchInstall)
+- [Post-install](https://github.com/jmhong20/jaemin_port/tree/main/ArchRice)

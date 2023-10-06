@@ -1,3 +1,4 @@
+## User
 1. Create user
 - `useradd -mg wheel *name*`
 2. Set password for new user

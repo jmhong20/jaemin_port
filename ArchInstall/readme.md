@@ -27,6 +27,7 @@
 - `mkdir /mnt/boot`
 - `mount /dev/sda1 /mnt/boot`
 - Image
+- ![웹 캡처_5-10-2023_19399_www youtube com](https://github.com/jmhong20/jaemin_port/assets/59593685/94fff051-4429-4dfe-8270-ad54aa28b2dd)
 8. Install Arch Linux
 - `pacstrap /mnt base base-devel linux linux-firmware vim`
 9. Make fstab file
@@ -51,6 +52,7 @@
 17. Define the language
 - `vim /etc/locale.conf`
 - image
+- ![웹 캡처_5-10-2023_19516_www youtube com](https://github.com/jmhong20/jaemin_port/assets/59593685/3f445c01-acc6-40d2-8484-6eefc4aa3947)
 18. Set the host name
 - `vim /etc/hostname`
 - Type in whatever name you want that shows up in the shell after your username

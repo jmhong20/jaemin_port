@@ -1,10 +1,8 @@
 1. Boot up Linux
 - Image
-- 
+- ![웹 캡처_5-10-2023_19286_www youtube com](https://github.com/jmhong20/jaemin_port/assets/59593685/646e3483-bb8d-4423-a46b-ca3b58bca733)
 2. Check if Internet is working
 - `ping gnu.org`
-![웹 캡처_5-10-2023_19286_www youtube com](https://github.com/jmhong20/jaemin_port/assets/59593685/646e3483-bb8d-4423-a46b-ca3b58bca733)
-
 > You need to have an ethernet cable connected to your laptop
 3. Sync the clock
 - `timedatectl set-ntp true`

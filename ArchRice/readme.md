@@ -1,3 +1,15 @@
+## KDE Plasma
+1. `useradd -m <username>`
+2. `passwd <username>`
+3. Add the following line to /etc/sudoers
+- Set vim as visudo editor:
+- `EDITOR=nano visudo`
+- ![웹 캡처_11-11-2023_202247_itsfoss com](https://github.com/jmhong20/jaemin_port/assets/59593685/33bf6a97-393a-4841-aa60-61c5ed11bcb3)
+4. `pacman -S xorg plasma plasma-wayland-session kde-applications`
+5. `systemctl enable sddm.service`
+6. `systemctl enable NetworkManager.service`
+7. `shutdown now`
+
 ## User
 1. Create user
 - `useradd -mg wheel *name*`
